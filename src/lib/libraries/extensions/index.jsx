@@ -171,18 +171,6 @@ const menuItems = [
         collaborator: 'PenguinMod',
         featured: true
     },
-       
-      {
-        name: 'Network',
-        extensionId: 'network',
-        iconURL: https://extensions.turbowarp.org/images/true-fantom/network.svg,
-        tags: ['TurboWarp'],
-        customInsetColor: '#B200FF',
-        insetIconURL: https://extensions.turbowarp.org/images/true-fantom/network.svg,
-        description: 'Various blocks for interacting with the network.',
-        collaborator: 'TrueFantom',
-        featured: true
-    },
     {
         name: 'Monitors Plus',
         extensionId: 'https://sharkpools-extensions.vercel.app/extension-code/Monitors-Plus.js',
